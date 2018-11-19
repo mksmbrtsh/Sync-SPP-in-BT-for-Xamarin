@@ -1,5 +1,5 @@
 # TestBth Sync
-Xamarin Test to connect a Bluetooth device (for Android OS) with a SPP interface.
+Xamarin Test to connect a Bluetooth device (for Android OS) with a SPP interface in sync mode. Timeout is implement.
 ## Implement
 * int TimeOut { get; set; }
 * bool Open(string name);
