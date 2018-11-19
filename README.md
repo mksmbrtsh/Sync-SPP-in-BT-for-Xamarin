@@ -1,14 +1,14 @@
 # TestBth Sync
 Xamarin Test to connect a Bluetooth device (for Android OS) with a SPP interface.
 ## Implement
-` int TimeOut { get; set; }
-` bool Open(string name);
-` void DiscardOutBuffer();
-` void DiscardInBuffer();
-` void Write(byte[] b, int v, int length);
-` byte ReadByte();
-` void Close();
-` ObservableCollection<string> PairedDevices();
+`` int TimeOut { get; set; }
+`` bool Open(string name);
+`` void DiscardOutBuffer();
+`` void DiscardInBuffer();
+`` void Write(byte[] b, int v, int length);
+`` byte ReadByte();
+`` void Close();
+`` ObservableCollection<string> PairedDevices();
 ## Build
 Xamarin 3.3.0.912540 in VS2017
 ##Author
