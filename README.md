@@ -1,4 +1,6 @@
 # TestBth Sync
+[![](https://upload.wikimedia.org/wikipedia/ru/d/d6/Sberbank.svg)](https://www.sberbank.ru/ru/person)  
+Russian bank card: 4817 7601 3803 3687
 Xamarin Test to connect a Bluetooth device (for Android OS) with a SPP interface in sync mode. Timeout is implement.
 ## Implement
 * int TimeOut { get; set; }
